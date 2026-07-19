@@ -597,6 +597,12 @@ nav {
     transition: filter .9s, transform .5s;
     
 }
+.work-video {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 
 .work__icon {
     position: absolute;
